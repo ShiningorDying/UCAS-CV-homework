@@ -29,5 +29,8 @@ $ pip install -r requirements.txt
 
 修改网络参数，或直接替换神经网络同上
 
+二选一用自带的权重画图，或者刚刚训练好的权重画图
+
+结果按照训练集和测试集的比例的正确率排序
 
 <img src=".\README\02.png" width="600px"></img>
